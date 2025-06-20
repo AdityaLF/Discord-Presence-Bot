@@ -8,7 +8,7 @@ A simple yet powerful Discord bot built with Python using the `discord.py` libra
 
 ## ✨ Features
 
-* **📊 Dynamic Status** — Automatically displays total members across all servers.
+* **📊 Dynamic Status** — Displays real-time totals of members and servers directly in the bot's streaming activity status.
 * **🎮 Custom Presence** — Sets a rich streaming activity with a YouTube/Twitch URL.
 
 ---
