@@ -2,7 +2,7 @@
 
 A simple yet powerful Discord bot built with Python using the `discord.py` library. It dynamically sets a streaming activity displaying live total member and server counts.
 
-<img src="https://i.ibb.co/xtv0cvDB/image.png" width="580" />
+<img src="https://i.ibb.co/xtv0cvDB/image.png" width="400" />
 
 ---
 
