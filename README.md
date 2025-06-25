@@ -53,15 +53,21 @@ git clone https://github.com/AdityaLF/Discord-Presence-Bot.git
 cd Discord-Presence-Bot
 ```
 
-### 4. Configure the Bot Token
+### 4. Install Dependencies 
 
-Replace `'bot_token_here'` in the code with your actual bot token:
+```bash
+pip install discord.py
+```
 
-```python
+### 5. Configure the Bot Token
+
+Replace `'bot_token_here'` with your actual bot token
+
+```bash
 YOUR_BOT_TOKEN = 'bot_token_here'
 ```
 
-### 5. Run the Bot
+### 6. Run the Bot
 
 After saving your changes and ensuring dependencies are installed, run the bot with:
 
@@ -81,4 +87,4 @@ python bot.py
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — you are free to use, modify, and share this project.
+This project is licensed under the [MIT License](LICENSE).
