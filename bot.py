@@ -33,6 +33,7 @@ async def on_ready():
     
     activity_name = f"with {formatted_members} members in {formatted_servers} servers!" 
     
+# Replace the link with your YouTube or Twitch video/stream link
     stream_url = "https://www.youtube.com/watch?v=MYPVQccHhAQ"
 
     activity = discord.Streaming(name=activity_name, url=stream_url)
