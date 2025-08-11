@@ -81,7 +81,7 @@ python bot.py
 
 * **GitHub**: [@AdityaLF](https://github.com/AdityaLF)
 * **Discord**: [@05.07am](https://discordapp.com/users/786163564205047839)
-* **Support Me**: [ko-fi.com/adityaf](https://ko-fi.com/adityaf)
+* **Support Me**: [ko-fi.com/adityalf](https://ko-fi.com/adityalf)
 
 ---
 
